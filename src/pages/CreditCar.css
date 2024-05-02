@@ -1,0 +1,11 @@
+.credit-car .credit-car-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #FF9A8B;
+}
+.credit-car {
+  display: flex;
+  box-sizing: border-box;
+}

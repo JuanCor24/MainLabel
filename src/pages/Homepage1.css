@@ -1,0 +1,3194 @@
+.homepage-1 .rectangle-608 {
+  background: #FFFCFC;
+  width: 46px;
+  height: 42px;
+}
+.homepage-1 .container-47 {
+  background: url('assets/images/Image17.png') 50% / cover no-repeat;
+  position: absolute;
+  right: -10px;
+  bottom: -4200px;
+  padding: 39px 45px 485px 45px;
+  width: 1376px;
+  height: 566px;
+  box-sizing: border-box;
+}
+.homepage-1 .image-20 {
+  opacity: 0.2;
+  background: url('assets/images/Image20.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 72px;
+  top: 855px;
+  right: 63px;
+  height: 507px;
+}
+.homepage-1 .rectangle-593 {
+  border-radius: 15px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 22px;
+  bottom: 0px;
+  width: 408px;
+  height: 511px;
+}
+.homepage-1 .image-21 {
+  background: url('assets/images/Image21.png');
+  margin: 0 95px 3px 0;
+  width: 116px;
+  height: 96px;
+}
+.homepage-1 .hospedaje-2 {
+  margin-right: 5.3px;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: #000000;
+}
+.homepage-1 .vector-22 {
+  width: 10.5px;
+  height: 6px;
+}
+.homepage-1 .nav-item {
+  margin: 9px 0 5px 0;
+  display: flex;
+  width: 10.5px;
+  height: 6px;
+  box-sizing: border-box;
+}
+.homepage-1 .variante-nav-1 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .servicios-1 {
+  margin-right: 5.9px;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: #000000;
+}
+.homepage-1 .vector-23 {
+  width: 10.5px;
+  height: 6px;
+}
+.homepage-1 .menu-item-default {
+  margin: 8px 0 6px 0;
+  display: flex;
+  width: 10.5px;
+  height: 6px;
+  box-sizing: border-box;
+}
+.homepage-1 .variante-nav-2 {
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .realidad-aumentada {
+  margin-right: 9px;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: #000000;
+}
+.homepage-1 .vector-24 {
+  width: 10.5px;
+  height: 6px;
+}
+.homepage-1 .menu-item-default-1 {
+  margin: 8px 0 6px 0;
+  display: flex;
+  width: 10.5px;
+  height: 6px;
+  box-sizing: border-box;
+}
+.homepage-1 .variante-nav-3 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .acerca-de {
+  margin-right: 8.5px;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: #000000;
+}
+.homepage-1 .vector-25 {
+  width: 10.5px;
+  height: 6px;
+}
+.homepage-1 .menu-item-default-2 {
+  margin: 8px 0 6px 0;
+  display: flex;
+  width: 10.5px;
+  height: 6px;
+  box-sizing: border-box;
+}
+.homepage-1 .variante-nav-4 {
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .beneficios {
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: #000000;
+}
+.homepage-1 .variante-nav-6 {
+  margin-top: 1px;
+  display: flex;
+  box-sizing: border-box;
+}
+.homepage-1 .group-10 {
+  margin: 69px 68.4px 9px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 605.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .label {
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: var(--neutral-900, #111827);
+}
+.homepage-1 .menu-item {
+  margin: 11px 32px 11px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.homepage-1 .label-1 {
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: #F5F5F5;
+}
+.homepage-1 .button {
+  background: #3FADD0;
+  display: flex;
+  padding: 12px 0;
+  width: 96px;
+  box-sizing: border-box;
+}
+.homepage-1 .nav-menu {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 1px solid #3FADD0;
+  margin-top: 55px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 15px;
+  box-sizing: border-box;
+}
+.homepage-1 .container-10 {
+  margin: 0 60px 1px 56px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .smart-journey {
+  margin: 0 69px 4px 69px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: #1F4D85;
+}
+.homepage-1 .rectangle-592 {
+  border-radius: 198.5px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  right: 16px;
+  bottom: -12px;
+  height: 520px;
+}
+.homepage-1 .adonde-vamos-air {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 32px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .o-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .input-text-4 {
+  margin-bottom: 14px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.homepage-1 .error-message {
+  opacity: 0.8;
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 12px;
+  color: #E71010;
+}
+.homepage-1 .key-field {
+  opacity: 0.8;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #323941;
+}
+.homepage-1 .container-36 {
+  border-radius: 4px;
+  border: 1px solid #D5D8DE;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -5% 0;
+  padding: 20px 16px;
+  width: 334px;
+  box-sizing: border-box;
+}
+.homepage-1 .input-fields {
+  border: 1px solid #000000;
+  position: relative;
+  margin-bottom: 4px;
+  align-self: flex-start;
+  padding: 23px 0 22px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .o {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .input-text {
+  margin-bottom: 6px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.homepage-1 .error-message-1 {
+  opacity: 0.8;
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 12px;
+  color: #E71010;
+}
+.homepage-1 .key-field-1 {
+  opacity: 0.8;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #323941;
+}
+.homepage-1 .container-37 {
+  border-radius: 4px;
+  border: 1px solid #D5D8DE;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -5% 0;
+  padding: 20px 16px;
+  width: 334px;
+  box-sizing: border-box;
+}
+.homepage-1 .input-fields-1 {
+  border: 1px solid #000000;
+  position: relative;
+  margin-bottom: 15px;
+  align-self: flex-start;
+  padding: 23px 0 22px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .arrive {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .input-text-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.homepage-1 .dpart {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .input-text-2 {
+  display: flex;
+  box-sizing: border-box;
+}
+.homepage-1 .container-27 {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 212.2px;
+  box-sizing: border-box;
+}
+.homepage-1 .error-message-2 {
+  opacity: 0.8;
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 12px;
+  color: #E71010;
+}
+.homepage-1 .key-field-2 {
+  opacity: 0.8;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #323941;
+}
+.homepage-1 .container-18 {
+  border-radius: 4px;
+  border: 1px solid #D5D8DE;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  padding: 20px 16px;
+  width: 160px;
+  box-sizing: border-box;
+}
+.homepage-1 .input-fields-2 {
+  border: 1px solid #000000;
+  position: relative;
+  padding: 23px 0 22px 0;
+  width: 160px;
+  box-sizing: border-box;
+}
+.homepage-1 .error-message-3 {
+  opacity: 0.8;
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 12px;
+  color: #E71010;
+}
+.homepage-1 .key-field-3 {
+  opacity: 0.8;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #323941;
+}
+.homepage-1 .container-45 {
+  border-radius: 4px;
+  border: 1px solid #D5D8DE;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  padding: 20px 16px;
+  width: 172px;
+  box-sizing: border-box;
+}
+.homepage-1 .input-fields-3 {
+  border: 1px solid #000000;
+  position: relative;
+  padding: 23px 0 22px 0;
+  width: 172px;
+  box-sizing: border-box;
+}
+.homepage-1 .container-38 {
+  margin: 0 2px 6px 2px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .voyageurs {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .input-text-3 {
+  margin-bottom: 1px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.homepage-1 .error-message-4 {
+  opacity: 0.8;
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 12px;
+  color: #E71010;
+}
+.homepage-1 .key-field-4 {
+  opacity: 0.8;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 16px;
+  color: #323941;
+}
+.homepage-1 .container-25 {
+  border-radius: 4px;
+  border: 1px solid #D5D8DE;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -5% 0;
+  padding: 20px 16px;
+  width: 334px;
+  box-sizing: border-box;
+}
+.homepage-1 .input-fields-4 {
+  border: 1px solid #000000;
+  position: relative;
+  margin-bottom: 20px;
+  align-self: flex-start;
+  padding: 23px 0 22px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .boton {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-white, #FFFFFF);
+}
+.homepage-1 .cta-main {
+  border-radius: 4px;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(#FB2B31, #FB2B31);
+  position: relative;
+  margin-left: 192px;
+  display: flex;
+  align-self: center;
+  padding: 15px 1px 14px 0;
+  width: 146px;
+  box-sizing: border-box;
+}
+.homepage-1 .container-24 {
+  border-radius: 4px;
+  background: #FFFFFF;
+  position: absolute;
+  right: -11px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 24px 24px;
+  width: 424px;
+  height: 499px;
+  box-sizing: border-box;
+}
+.homepage-1 .reservation-card {
+  position: relative;
+  margin-right: 46px;
+  width: 413px;
+  height: 508px;
+}
+.homepage-1 .image-2 {
+  background: url('assets/images/Image2.png') 50% / cover no-repeat;
+  margin: 16px 0 4px 0;
+  width: 754px;
+  height: 488px;
+}
+.homepage-1 .container-26 {
+  display: flex;
+  flex-direction: row;
+  width: 1213px;
+  box-sizing: border-box;
+}
+.homepage-1 .container-35 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .hero {
+  position: relative;
+  margin: 0 22.4px 24px 65.3px;
+  display: flex;
+  padding-bottom: 12px;
+  box-sizing: border-box;
+}
+.homepage-1 .vector-4 {
+  width: 57.5px;
+  height: 72.6px;
+}
+.homepage-1 .material-symbolssurfing-rounded {
+  margin: 0.1px 0 8.4px 0;
+  display: flex;
+  width: 57.5px;
+  height: 72.6px;
+  box-sizing: border-box;
+}
+.homepage-1 .group {
+  width: 51.8px;
+  height: 61px;
+}
+.homepage-1 .majesticonsbeach {
+  margin: 12.9px 0 7.1px 0;
+  display: flex;
+  width: 51.8px;
+  height: 61px;
+  box-sizing: border-box;
+}
+.homepage-1 .vector-5 {
+  width: 51.8px;
+  height: 60.8px;
+}
+.homepage-1 .material-symbolslocal-bar {
+  margin: 13.1px 0 7.1px 0;
+  display: flex;
+  width: 51.8px;
+  height: 60.8px;
+  box-sizing: border-box;
+}
+.homepage-1 .vector-6 {
+  width: 42.2px;
+  height: 72.6px;
+}
+.homepage-1 .material-symbolshiking-sharp {
+  margin: 8.1px 0 0.4px 0;
+  display: flex;
+  width: 42.2px;
+  height: 72.6px;
+  box-sizing: border-box;
+}
+.homepage-1 .vector-3 {
+  width: 66.2px;
+  height: 67.8px;
+}
+.homepage-1 .maprafting {
+  margin: 8.1px 0 5.1px 0;
+  display: flex;
+  width: 66.2px;
+  height: 67.8px;
+  box-sizing: border-box;
+}
+.homepage-1 .vector {
+  width: 69px;
+  height: 81px;
+}
+.homepage-1 .fa-6-solidvolcano {
+  display: flex;
+  width: 69px;
+  height: 81px;
+  box-sizing: border-box;
+}
+.homepage-1 .container-48 {
+  margin: 0 91.3px 14px 85px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1124.3px;
+  box-sizing: border-box;
+}
+.homepage-1 .playas-para-surfear {
+  margin: 0 10px 5px 0;
+  display: inline-block;
+  width: 197px;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: #000000;
+}
+.homepage-1 .playas {
+  margin-top: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: #000000;
+}
+.homepage-1 .vida-nocturna {
+  margin-top: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: #000000;
+}
+.homepage-1 .lugares-para-practicar-hiking {
+  margin-top: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: #000000;
+}
+.homepage-1 .lugares-para-practicar-rafting {
+  margin-top: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: #000000;
+}
+.homepage-1 .volcanes {
+  margin-top: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: #000000;
+}
+.homepage-1 .container-53 {
+  margin: 0 100.2px 33px 59.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1141.1px;
+  box-sizing: border-box;
+}
+.homepage-1 .catalogo {
+  margin: 89px 68.4px 9px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 605.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .rectangle-4 {
+  background: url('assets/images/Rectangle44.jpeg') 50% / cover no-repeat, linear-gradient(#C4C4C4, #C4C4C4);
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 121px;
+  height: 85px;
+}
+.homepage-1 .logements {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .rectangle-43 {
+  background: url('assets/images/Rectangle44.jpeg') 50% / cover no-repeat, linear-gradient(#C4C4C4, #C4C4C4);
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 121px;
+  height: 85px;
+}
+.homepage-1 .logements-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .rectangle-46 {
+  background: url('assets/images/Rectangle44.jpeg') 50% / cover no-repeat, linear-gradient(#C4C4C4, #C4C4C4);
+  width: 121px;
+  height: 85px;
+}
+.homepage-1 .logements-2 {
+  margin: 33px 100px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-6 {
+  border-radius: 12px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100%;
+  box-sizing: border-box;
+}
+.homepage-1 .mini-card-3 {
+  border-radius: 12px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+  width: 391px;
+}
+.homepage-1 .mini-card {
+  border-radius: 12px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.homepage-1 .rectangle-41 {
+  background: url('assets/images/Rectangle4.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 121px;
+  height: 85px;
+}
+.homepage-1 .expriences {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .rectangle-44 {
+  background: url('assets/images/Rectangle4.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 121px;
+  height: 85px;
+}
+.homepage-1 .expriences-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .rectangle-47 {
+  background: url('assets/images/Rectangle4.png') 50% / cover no-repeat;
+  width: 121px;
+  height: 85px;
+}
+.homepage-1 .expriences-2 {
+  margin: 33px 100px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-7 {
+  border-radius: 12px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100%;
+  box-sizing: border-box;
+}
+.homepage-1 .mini-card-4 {
+  border-radius: 12px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  padding: 33px 36.2px 33px 0;
+  height: 100%;
+  box-sizing: border-box;
+}
+.homepage-1 .mini-card-1 {
+  border-radius: 12px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+  width: 391px;
+
+  /* border-radius: 12px;
+  background: #FFFFFF;
+  position: absolute;
+  top: 1050px;
+  right: 89px;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 0.1px;
+  width: 391px;
+  box-sizing: border-box; */
+}
+.homepage-1 .rectangle-42 {
+  background: url('assets/images/Rectangle46.jpeg') 50% / cover no-repeat, linear-gradient(#C4C4C4, #C4C4C4);
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 121px;
+  height: 85px;
+}
+.homepage-1 .aventures {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .rectangle-45 {
+  background: url('assets/images/Rectangle42.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 121px;
+  height: 85px;
+}
+.homepage-1 .aventures-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .rectangle-48 {
+  background: url('assets/images/Rectangle42.png') 50% / cover no-repeat;
+  width: 121px;
+  height: 85px;
+}
+.homepage-1 .aventures-2 {
+  margin: 33px 133px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-8 {
+  border-radius: 12px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100%;
+  box-sizing: border-box;
+}
+.homepage-1 .mini-card-5 {
+  border-radius: 12px;
+  background: #FFFFFF;
+  position: absolute;
+  left:-147px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  padding: 33px 0 33px 47.5px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.homepage-1 .mini-card-2 {
+  border-radius: 12px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 940px;
+  top: 100px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100%;
+  box-sizing: border-box;
+  width: 391px;
+}
+.homepage-1 .container-2 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .container-9 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .catalogo-1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow-wrap: break-word;
+  font-family: var(--h-1-roboto-24-px-font-family, 'Roboto');
+  font-weight: var(--h-1-roboto-24-px-font-weight, 700);
+  font-size: var(--h-1-roboto-24-px-font-size, 24px);
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .catalogo-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow-wrap: break-word;
+  font-family: var(--h-1-roboto-24-px-font-family, 'Roboto');
+  font-weight: var(--h-1-roboto-24-px-font-weight, 700);
+  font-size: var(--h-1-roboto-24-px-font-size, 24px);
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .explorer-airbnb {
+  position: relative;
+  margin: 0 52.4px 428px 42.3px;
+  display: flex;
+  box-sizing: border-box;
+}
+.homepage-1 .realidad-virtual {
+  margin: 0 51.3px 20px 51.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--h-1-roboto-24-px-font-family, 'Roboto');
+  font-weight: var(--h-1-roboto-24-px-font-weight, 700);
+  font-size: var(--h-1-roboto-24-px-font-size, 24px);
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .vector-10 {
+  width: 33.6px;
+  height: 51px;
+}
+.homepage-1 .mingcuteleft-line-1 {
+  margin: 0 12.8px 203.6px 10.3px;
+  display: flex;
+  width: 33.6px;
+  height: 51px;
+  box-sizing: border-box;
+}
+.homepage-1 .vector-8 {
+  width: 56.6px;
+  height: 52.9px;
+}
+.homepage-1 .material-symbolstravel-1 {
+  display: flex;
+  width: 56.6px;
+  height: 52.9px;
+  box-sizing: border-box;
+}
+.homepage-1 .container-29 {
+  margin: 211.4px 50.6px 45px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 56.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .vector-19 {
+  position: absolute;
+  top: -2px;
+  right: 48.5px;
+  width: 66.5px;
+  height: 77px;
+}
+.homepage-1 .group-1 {
+  width: 105px;
+  height: 58.8px;
+}
+.homepage-1 .codiconvr {
+  margin: 7.6px 59px 9.6px 0;
+  display: flex;
+  width: 105px;
+  height: 58.8px;
+  box-sizing: border-box;
+}
+.homepage-1 .descubre-el-mundo-desde-la-comodidad-de-tu-hogar-con-nuestra-exclusiva-suscripcin-premium-donde-cada-experiencia-es-meticulosamente-seleccionada-para-despertar-tus-sentidos-ytransportarte-adestinos-exticos-yemocionantes-sumrgete-en-narrativas-inmersivas-yenvolventes-creadas-por-expertos-en-cada-campo-que-te-harn-sentir-como-si-estuvieras-realmente-all {
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-roboto-16-px-font-family, 'Roboto');
+  font-weight: var(--body-text-roboto-16-px-font-weight, 300);
+  font-size: var(--body-text-roboto-16-px-font-size, 16px);
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .container-51 {
+  margin: 0 5px 42px 5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .vector-11 {
+  width: 23.8px;
+  height: 36.8px;
+}
+.homepage-1 .container-44 {
+  background: url('assets/images/SelinaNosara022019Surf1811.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin: 1px 24px 1px 0;
+  display: flex;
+  padding: 102px 0 101.3px 31.8px;
+  width: 164px;
+  height: 240px;
+  box-sizing: border-box;
+}
+.homepage-1 .vector-15 {
+  width: 23.8px;
+  height: 36.8px;
+}
+.homepage-1 .container-39 {
+  background: url('assets/images/AlvaroHernandezMum7IwTkFuUnsplash11.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin: 2px 20px 0 0;
+  display: flex;
+  padding: 101px 0.2px 102.3px 0;
+  width: 164px;
+  height: 240px;
+  box-sizing: border-box;
+}
+.homepage-1 .vector-16 {
+  width: 23.8px;
+  height: 36.8px;
+}
+.homepage-1 .container-50 {
+  background: url('assets/images/Rafting0021.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin: 2px 20px 0 0;
+  display: flex;
+  padding: 100px 0.2px 103.3px 0;
+  width: 164px;
+  height: 240px;
+  box-sizing: border-box;
+}
+.homepage-1 .vector-12 {
+  width: 23.8px;
+  height: 36.8px;
+}
+.homepage-1 .container-15 {
+  background: url('assets/images/RioCelesteCostaRica1.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 20px 2px 0;
+  display: flex;
+  padding: 102px 0 101.3px 7.8px;
+  width: 164px;
+  height: 240px;
+  box-sizing: border-box;
+}
+.homepage-1 .vector-13 {
+  width: 23.8px;
+  height: 36.8px;
+}
+.homepage-1 .container-46 {
+  background: url('assets/images/PuertoViejoCostaRica1.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin: 0 20px 2px 0;
+  display: flex;
+  padding: 108px 0 95.3px 13.8px;
+  width: 164px;
+  height: 240px;
+  box-sizing: border-box;
+}
+.homepage-1 .vector-14 {
+  width: 23.8px;
+  height: 36.8px;
+}
+.homepage-1 .container-52 {
+  background: url('assets/images/BeachSunset1.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 1px 0;
+  display: flex;
+  padding: 107px 0 96.3px 9.8px;
+  width: 164px;
+  height: 240px;
+  box-sizing: border-box;
+}
+.homepage-1 .container-31 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: row;
+  width: 1088px;
+  box-sizing: border-box;
+}
+.homepage-1 .cayman-islands-1 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--tag-roboto-10-px-font-family, 'Roboto');
+  font-weight: var(--tag-roboto-10-px-font-weight, 700);
+  font-size: var(--tag-roboto-10-px-font-size, 10px);
+  text-transform: var(--tag-roboto-10-px-text-transform, uppercase);
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .nights-package-all-inclusive-6 {
+  margin-bottom: 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .partir-de-577-personne-3-jours-13 {
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-21 {
+  margin: 1px 24.1px 0 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .uruguay-1 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--tag-roboto-10-px-font-family, 'Roboto');
+  font-weight: var(--tag-roboto-10-px-font-weight, 700);
+  font-size: var(--tag-roboto-10-px-font-size, 10px);
+  text-transform: var(--tag-roboto-10-px-text-transform, uppercase);
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .nights-package-all-inclusive-7 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .partir-de-577-personne-3-jours-14 {
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-22 {
+  margin: 3px 23.5px 19px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .iceland-1 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--tag-roboto-10-px-font-family, 'Roboto');
+  font-weight: var(--tag-roboto-10-px-font-weight, 700);
+  font-size: var(--tag-roboto-10-px-font-size, 10px);
+  text-transform: var(--tag-roboto-10-px-text-transform, uppercase);
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .nights-package-all-inclusive-8 {
+  margin-bottom: 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .partir-de-577-personne-3-jours-15 {
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-23 {
+  margin: 4px 25.3px 18px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .mongolia-1 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--tag-roboto-10-px-font-family, 'Roboto');
+  font-weight: var(--tag-roboto-10-px-font-weight, 700);
+  font-size: var(--tag-roboto-10-px-font-size, 10px);
+  text-transform: var(--tag-roboto-10-px-text-transform, uppercase);
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .nights-package-all-inclusive-9 {
+  margin-bottom: 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .partir-de-577-personne-3-jours-16 {
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-24 {
+  margin: 1px 28.5px 0 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .bahrain-1 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--tag-roboto-10-px-font-family, 'Roboto');
+  font-weight: var(--tag-roboto-10-px-font-weight, 700);
+  font-size: var(--tag-roboto-10-px-font-size, 10px);
+  text-transform: var(--tag-roboto-10-px-text-transform, uppercase);
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .nights-package-all-inclusive-10 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .partir-de-577-personne-3-jours-17 {
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-25 {
+  margin: 0 21.2px 1px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .bosnia-and-herzegovina-1 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--tag-roboto-10-px-font-family, 'Roboto');
+  font-weight: var(--tag-roboto-10-px-font-weight, 700);
+  font-size: var(--tag-roboto-10-px-font-size, 10px);
+  text-transform: var(--tag-roboto-10-px-text-transform, uppercase);
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .nights-package-all-inclusive-11 {
+  margin-bottom: 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .partir-de-577-personne-3-jours-18 {
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-26 {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .container-4 {
+  margin-right: 3.6px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .container-14 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .vector-20 {
+  width: 38.2px;
+  height: 50px;
+}
+.homepage-1 .mingcuteright-fill {
+  position: absolute;
+  top: 216px;
+  right: -96.9px;
+  display: flex;
+  width: 38.2px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.homepage-1 .aventures-airbnb {
+  position: relative;
+  margin-right: 48.7px;
+  display: flex;
+  padding-top: 3px;
+  box-sizing: border-box;
+}
+.homepage-1 .vector-7 {
+  width: 56.6px;
+  height: 52.9px;
+}
+.homepage-1 .material-symbolstravel {
+  margin: 466px 0 45px 0;
+  display: flex;
+  width: 56.6px;
+  height: 52.9px;
+  box-sizing: border-box;
+}
+.homepage-1 .container-13 {
+  margin-bottom: 45px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .hospedaje-1 {
+  margin: 0 41.3px 32.6px 41.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--h-1-roboto-24-px-font-family, 'Roboto');
+  font-weight: var(--h-1-roboto-24-px-font-weight, 700);
+  font-size: var(--h-1-roboto-24-px-font-size, 24px);
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .rectangle-7 {
+  border-radius: 4px;
+  background: url('assets/images/Rectangle72.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 290px;
+  height: 200px;
+}
+.homepage-1 .superhost {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .tagmini {
+  border-radius: 2px;
+  border: 1px solid #484848;
+  position: relative;
+  margin-right: 13px;
+  padding: 8px;
+  width: 74px;
+  box-sizing: border-box;
+}
+.homepage-1 .toledo {
+  margin: 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .container-7 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .star-110 {
+  margin: 3px 4.9px 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .container-10 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 12px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .notation-10 {
+  margin: 7px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .container-16 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 290px;
+  box-sizing: border-box;
+}
+.homepage-1 .partir-de-577-personne-3-jours-6 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .column-card {
+  margin: 0.2px 0 21px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .rectangle-71 {
+  border-radius: 4px;
+  background: url('assets/images/Rectangle71.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 290px;
+  height: 200px;
+}
+.homepage-1 .superhost-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .tagmini-1 {
+  border-radius: 2px;
+  border: 1px solid #484848;
+  position: relative;
+  margin-right: 13px;
+  padding: 8px;
+  width: 74px;
+  box-sizing: border-box;
+}
+.homepage-1 .mesa {
+  margin: 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .container-32 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .star-111 {
+  margin: 3px 4.9px 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .container-11 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 12px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .notation-11 {
+  margin: 7px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .container {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 290px;
+  box-sizing: border-box;
+}
+.homepage-1 .partir-de-577-personne-3-jours-7 {
+  margin-right: 25.3px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #484848;
+}
+.partir-de-577-personne-3-jours-7-sub9 {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  text-decoration-line: line-through;
+  line-height: 1.333;
+  color: #9A9797;
+}
+.partir-de-577-personne-3-jours-7-sub34 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.333;
+  color: #ECA110;
+}
+.homepage-1 .column-card-1 {
+  margin-top: 0.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.homepage-1 .image-15 {
+  background: url('assets/images/Image15.png') 50% / cover no-repeat;
+  margin-bottom: 17.2px;
+  width: 290px;
+  height: 190.8px;
+}
+.homepage-1 .producto {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .tagmini-7 {
+  border-radius: 2px;
+  border: 1px solid #484848;
+  position: relative;
+  margin-right: 13px;
+  padding: 8px;
+  width: 74px;
+  box-sizing: border-box;
+}
+.homepage-1 .city-name {
+  margin: 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .container-41 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .star-117 {
+  margin: 3px 4.9px 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .container-17 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 12px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .notation-17 {
+  margin: 7px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .container-49 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 289px;
+  box-sizing: border-box;
+}
+.container-18-sub35 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.333;
+  color: #ECA110;
+}
+.homepage-1 .container-18 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.container-18-sub46 {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  text-decoration-line: line-through;
+  line-height: 1.333;
+  color: #8D8A8A;
+}
+.homepage-1 .column-card-default-discount {
+  margin-right: 1px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .container-21 {
+  margin-bottom: 21.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.homepage-1 .rectangle-72 {
+  border-radius: 4px;
+  background: url('assets/images/Rectangle76.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 290px;
+  height: 200px;
+}
+.homepage-1 .superhost-2 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .tagmini-2 {
+  border-radius: 2px;
+  border: 1px solid #484848;
+  position: relative;
+  margin-right: 13px;
+  padding: 8px;
+  width: 74px;
+  box-sizing: border-box;
+}
+.homepage-1 .south-bend {
+  margin: 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .container-40 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .star-112 {
+  margin: 3px 4.9px 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .container-12 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 12px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .notation-12 {
+  margin: 7px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .container-42 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 290px;
+  box-sizing: border-box;
+}
+.homepage-1 .partir-de-577-personne-3-jours-8 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.partir-de-577-personne-3-jours-8-sub13 {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  text-decoration-line: line-through;
+  line-height: 1.333;
+  color: #8F8787;
+}
+.partir-de-577-personne-3-jours-8-sub30 {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.333;
+  color: #EAB807;
+}
+.homepage-1 .column-card-2 {
+  margin-bottom: 0.2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .container-8 {
+  margin: 0 0 59.1px 1px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .rectangle-73 {
+  border-radius: 4px;
+  background: url('assets/images/Rectangle75.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 290px;
+  height: 200px;
+}
+.homepage-1 .rectangle-83 {
+  border-radius: 2px;
+  border: 1px solid var(--secondary-dark-grey, #484848);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 74px;
+  height: 28px;
+}
+.homepage-1 .superhost-3 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .tagmini-3 {
+  position: relative;
+  margin-right: 7.2px;
+  display: flex;
+  padding: 8px 0 8px 8px;
+  box-sizing: border-box;
+}
+.homepage-1 .toledo-1 {
+  margin: 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .container-20 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .star-113 {
+  margin: 3px 4.9px 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .container-13 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 12px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .notation-13 {
+  margin: 7px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .container-30 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 290px;
+  box-sizing: border-box;
+}
+.partir-de-577-personne-3-jours-9-sub7 {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  text-decoration-line: line-through;
+  line-height: 1.333;
+  color: #9A9797;
+}
+.partir-de-577-personne-3-jours-9-sub6 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.333;
+  color: #ECA110;
+}
+.homepage-1 .partir-de-577-personne-3-jours-9 {
+  margin-right: 25.3px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #484848;
+}
+.partir-de-577-personne-3-jours-9-sub8 {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.333;
+  color: #9A9797;
+}
+.homepage-1 .column-card-3 {
+  margin: 0 17px 0.1px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.homepage-1 .rectangle-74 {
+  border-radius: 4px;
+  background: url('assets/images/Rectangle73.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 290px;
+  height: 200px;
+}
+.homepage-1 .superhost-4 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .tagmini-4 {
+  border-radius: 2px;
+  border: 1px solid #484848;
+  position: relative;
+  margin-right: 13px;
+  padding: 8px;
+  width: 74px;
+  box-sizing: border-box;
+}
+.homepage-1 .mesa-1 {
+  margin: 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .container-12 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .star-114 {
+  margin: 3px 4.9px 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .container-14 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 12px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .notation-14 {
+  margin: 7px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .container-22 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 290px;
+  box-sizing: border-box;
+}
+.homepage-1 .partir-de-577-personne-3-jours-10 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .column-card-4 {
+  margin: 0.1px 16px 21px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .rectangle-75 {
+  border-radius: 4px;
+  background: url('assets/images/Rectangle7.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 290px;
+  height: 200px;
+}
+.homepage-1 .superhost-5 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .tagmini-5 {
+  border-radius: 2px;
+  border: 1px solid #484848;
+  position: relative;
+  margin-right: 13px;
+  padding: 8px;
+  width: 74px;
+  box-sizing: border-box;
+}
+.homepage-1 .utica {
+  margin: 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .container-28 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .star-115 {
+  margin: 3px 4.9px 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .container-15 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 12px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .notation-15 {
+  margin: 7px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .container-5 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 290px;
+  box-sizing: border-box;
+}
+.homepage-1 .partir-de-577-personne-3-jours-11 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #484848;
+}
+.partir-de-577-personne-3-jours-11-sub3 {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  text-decoration-line: line-through;
+  line-height: 1.333;
+  color: #9A9797;
+}
+.partir-de-577-personne-3-jours-11-sub8 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.333;
+  color: #ECA110;
+}
+.homepage-1 .column-card-5 {
+  margin: 0.1px 16px 0 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .rectangle-76 {
+  border-radius: 4px;
+  background: url('assets/images/Rectangle74.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 290px;
+  height: 200px;
+}
+.homepage-1 .superhost-6 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .tagmini-6 {
+  border-radius: 2px;
+  border: 1px solid #484848;
+  position: relative;
+  margin-right: 13px;
+  padding: 8px;
+  width: 74px;
+  box-sizing: border-box;
+}
+.homepage-1 .south-bend-1 {
+  margin: 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .container-17 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .star-116 {
+  margin: 3px 4.9px 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .container-16 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 12px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .notation-16 {
+  margin: 7px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .container-19 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 290px;
+  box-sizing: border-box;
+}
+.partir-de-577-personne-3-jours-12-sub3 {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  text-decoration-line: line-through;
+  line-height: 1.333;
+  color: #9A9797;
+}
+.partir-de-577-personne-3-jours-12-sub8 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.333;
+  color: #ECA110;
+}
+.homepage-1 .partir-de-577-personne-3-jours-12 {
+  margin-right: 25.3px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #484848;
+}
+.homepage-1 .column-card-6 {
+  margin-top: 0.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.homepage-1 .container-6 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .hospedaje {
+  margin: 0 51.4px 44px 40.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .servicios {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--h-1-roboto-24-px-font-family, 'Roboto');
+  font-weight: var(--h-1-roboto-24-px-font-weight, 700);
+  font-size: var(--h-1-roboto-24-px-font-size, 24px);
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .smartjouerny-ofrece-servicios-desde-halojamiento-transporte-toures-ytransporte-alos-destinos-de-tu-preferencia {
+  margin-bottom: 27.1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-roboto-16-px-font-family, 'Roboto');
+  font-weight: var(--body-text-roboto-16-px-font-weight, 300);
+  font-size: var(--body-text-roboto-16-px-font-size, 16px);
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .image {
+  border-radius: 4px;
+  background: url('assets/images/Image9.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 188px;
+  height: 240px;
+}
+.homepage-1 .cayman-islands {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--tag-roboto-10-px-font-family, 'Roboto');
+  font-weight: var(--tag-roboto-10-px-font-weight, 700);
+  font-size: var(--tag-roboto-10-px-font-size, 10px);
+  text-transform: var(--tag-roboto-10-px-text-transform, uppercase);
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .nights-package-all-inclusive {
+  margin-bottom: 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .partir-de-577-personne-3-jours {
+  margin: 0 9.3px 23px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .container-4 {
+  margin-right: 4.7px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  color: var(--primary-green, #008489);
+}
+.homepage-1 .star-14 {
+  margin: 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .notation-4 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .mini-card-15 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .image-1 {
+  border-radius: 4px;
+  background: url('assets/images/Image10.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 188px;
+  height: 240px;
+}
+.homepage-1 .uruguay {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--tag-roboto-10-px-font-family, 'Roboto');
+  font-weight: var(--tag-roboto-10-px-font-weight, 700);
+  font-size: var(--tag-roboto-10-px-font-size, 10px);
+  text-transform: var(--tag-roboto-10-px-text-transform, uppercase);
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .nights-package-all-inclusive-1 {
+  margin-bottom: 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .partir-de-577-personne-3-jours-1 {
+  margin: 0 9.3px 25px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .container-5 {
+  margin-right: 4.7px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  color: var(--primary-green, #008489);
+}
+.homepage-1 .star-15 {
+  margin: 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .notation-5 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .mini-card-16 {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .image-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  background: url('assets/images/Image11.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 188px;
+  height: 240px;
+}
+.homepage-1 .iceland {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--tag-roboto-10-px-font-family, 'Roboto');
+  font-weight: var(--tag-roboto-10-px-font-weight, 700);
+  font-size: var(--tag-roboto-10-px-font-size, 10px);
+  text-transform: var(--tag-roboto-10-px-text-transform, uppercase);
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .nights-package-all-inclusive-2 {
+  margin-bottom: 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .partir-de-577-personne-3-jours-2 {
+  margin: 0 5.7px 6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .container-6 {
+  margin-right: 4.7px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  color: var(--primary-green, #008489);
+}
+.homepage-1 .star-16 {
+  margin: 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .notation-6 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .mini-card-17 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .image-3 {
+  border-radius: 4px;
+  background: url('assets/images/Image14.jpeg') 50% / cover no-repeat, linear-gradient(#C4C4C4, #C4C4C4);
+  margin-bottom: 8px;
+  width: 188px;
+  height: 240px;
+}
+.homepage-1 .mongolia {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--tag-roboto-10-px-font-family, 'Roboto');
+  font-weight: var(--tag-roboto-10-px-font-weight, 700);
+  font-size: var(--tag-roboto-10-px-font-size, 10px);
+  text-transform: var(--tag-roboto-10-px-text-transform, uppercase);
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .nights-package-all-inclusive-3 {
+  margin-bottom: 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .partir-de-577-personne-3-jours-3 {
+  margin: 0 9.3px 27px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .container-7 {
+  margin-right: 4.7px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  color: var(--primary-green, #008489);
+}
+.homepage-1 .star-17 {
+  margin: 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .notation-7 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .mini-card-18 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .image-4 {
+  border-radius: 4px;
+  background: url('assets/images/Image15.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 188px;
+  height: 240px;
+}
+.homepage-1 .bahrain {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--tag-roboto-10-px-font-family, 'Roboto');
+  font-weight: var(--tag-roboto-10-px-font-weight, 700);
+  font-size: var(--tag-roboto-10-px-font-size, 10px);
+  text-transform: var(--tag-roboto-10-px-text-transform, uppercase);
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .nights-package-all-inclusive-4 {
+  margin-bottom: 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .partir-de-577-personne-3-jours-4 {
+  margin-bottom: 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .container-8 {
+  margin-right: 4.7px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  color: var(--primary-green, #008489);
+}
+.homepage-1 .star-18 {
+  margin: 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .notation-8 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .mini-card-19 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .image-5 {
+  border-radius: 4px;
+  background: url('assets/images/Image13.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 188px;
+  height: 240px;
+}
+.homepage-1 .bosnia-and-herzegovina {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--tag-roboto-10-px-font-family, 'Roboto');
+  font-weight: var(--tag-roboto-10-px-font-weight, 700);
+  font-size: var(--tag-roboto-10-px-font-size, 10px);
+  text-transform: var(--tag-roboto-10-px-text-transform, uppercase);
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .nights-package-all-inclusive-5 {
+  margin-bottom: 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .partir-de-577-personne-3-jours-5 {
+  margin: 0 17.2px 25px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .container-9 {
+  margin-right: 4.7px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  color: var(--primary-green, #008489);
+}
+.homepage-1 .star-19 {
+  margin: 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .notation-9 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .mini-card-20 {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .container-3 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .bien-not-es {
+  margin: 0 52.4px 62.9px 40.3px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .vector-9 {
+  width: 33.6px;
+  height: 51px;
+}
+.homepage-1 .mingcuteleft-line {
+  position: absolute;
+  left: 0px;
+  top: 214.4px;
+  display: flex;
+  width: 33.6px;
+  height: 51px;
+  box-sizing: border-box;
+}
+.homepage-1 .rectangle-607 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 10px;
+  bottom: 0px;
+  width: 199px;
+  height: 40px;
+}
+.homepage-1 .paquetes {
+  margin: 0 24.5px 71px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--h-1-roboto-24-px-font-family, 'Roboto');
+  font-weight: var(--h-1-roboto-24-px-font-weight, 700);
+  font-size: var(--h-1-roboto-24-px-font-size, 24px);
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .image-23 {
+  background: url('assets/images/Image23.png') 50% / cover no-repeat;
+  margin: 3px 34px 13px 0;
+  width: 75px;
+  height: 83px;
+}
+.homepage-1 .smartjouerny-ofrece-paquetes-turisticos-adiferentes-destinos-en-costa-rica-ycolombia-con-la-compra-del-paquete-se-incluyen-gafas-vr-transporte-alimentacion-hospedaje-yseguros-medicos {
+  margin: 29px 81.3px 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-text-roboto-16-px-font-family, 'Roboto');
+  font-weight: var(--body-text-roboto-16-px-font-weight, 300);
+  font-size: var(--body-text-roboto-16-px-font-size, 16px);
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .image-22 {
+  background: url('assets/images/Image22.png') 50% / cover no-repeat;
+  width: 113px;
+  height: 99px;
+}
+.homepage-1 .container-11 {
+  margin: 0 88.9px 21px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .image-6 {
+  border-radius: 4px;
+  background: url('assets/images/Image5.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 217px;
+  height: 240px;
+}
+.homepage-1 .cayman-islands-2 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--tag-roboto-10-px-font-family, 'Roboto');
+  font-weight: var(--tag-roboto-10-px-font-weight, 700);
+  font-size: var(--tag-roboto-10-px-font-size, 10px);
+  text-transform: var(--tag-roboto-10-px-text-transform, uppercase);
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .hotel-comida-yentetenimiento {
+  margin: 0 1px 8px 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .partir-de-577-personne-3-jours-19 {
+  margin-right: 0.4px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-27 {
+  margin-right: 52px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .image-7 {
+  border-radius: 4px;
+  background: url('assets/images/Image.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 218px;
+  height: 240px;
+}
+.homepage-1 .iceland-2 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--tag-roboto-10-px-font-family, 'Roboto');
+  font-weight: var(--tag-roboto-10-px-font-weight, 700);
+  font-size: var(--tag-roboto-10-px-font-size, 10px);
+  text-transform: var(--tag-roboto-10-px-text-transform, uppercase);
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .nights-package-all-inclusive-12 {
+  margin-bottom: 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .partir-de-577-personne-3-jours-20 {
+  margin-right: 12.9px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-28 {
+  margin-right: 49px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .image-8 {
+  border-radius: 4px;
+  background: url('assets/images/Image12.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 219px;
+  height: 240px;
+}
+.homepage-1 .bahrain-2 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--tag-roboto-10-px-font-family, 'Roboto');
+  font-weight: var(--tag-roboto-10-px-font-weight, 700);
+  font-size: var(--tag-roboto-10-px-font-size, 10px);
+  text-transform: var(--tag-roboto-10-px-text-transform, uppercase);
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .nights-package-all-inclusive-13 {
+  margin-bottom: 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .partir-de-577-personne-3-jours-21 {
+  margin-right: 13.9px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-29 {
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .image-9 {
+  border-radius: 4px;
+  background: url('assets/images/Image6.png') 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 215px;
+  height: 240px;
+}
+.homepage-1 .bosnia-and-herzegovina-2 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--tag-roboto-10-px-font-family, 'Roboto');
+  font-weight: var(--tag-roboto-10-px-font-weight, 700);
+  font-size: var(--tag-roboto-10-px-font-size, 10px);
+  text-transform: var(--tag-roboto-10-px-text-transform, uppercase);
+  color: var(--secondary-middle-grey, #767676);
+}
+.homepage-1 .nights-package-all-inclusive-14 {
+  margin-bottom: 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .partir-de-577-personne-3-jours-22 {
+  margin-right: 9.9px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-30 {
+  margin-right: 43.6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .vector-21 {
+  width: 38.2px;
+  height: 50px;
+}
+.homepage-1 .mingcuteright-fill-1 {
+  margin: 114px 0 167px 0;
+  display: flex;
+  width: 38.2px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.homepage-1 .container-34 {
+  margin: 0 0 13px 71px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.homepage-1 .container-3 {
+  margin-right: 4.7px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  color: var(--primary-green, #008489);
+}
+.homepage-1 .star-13 {
+  margin: 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .notation-3 {
+  margin-top: 4px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .container-1 {
+  margin-right: 4.7px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  color: var(--primary-green, #008489);
+}
+.homepage-1 .star-11 {
+  margin: 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .notation-1 {
+  margin-top: 4px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .container {
+  margin-right: 4.7px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  color: var(--primary-green, #008489);
+}
+.homepage-1 .star-1 {
+  margin: 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .notation {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .container-2 {
+  margin-right: 4.7px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 12px;
+  color: var(--primary-green, #008489);
+}
+.homepage-1 .star-12 {
+  margin: 3px 0;
+  width: 8px;
+  height: 8px;
+}
+.homepage-1 .notation-2 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.homepage-1 .container-23 {
+  margin: 0 33.9px 46px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 863px;
+  box-sizing: border-box;
+}
+.homepage-1 .smart-journey-1 {
+  margin: 0 91px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 0.556;
+  color: #1F4D85;
+}
+.homepage-1 .container-43 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .image-211 {
+  background: url('assets/images/Image21.png');
+  position: absolute;
+  left: -19px;
+  bottom: -12px;
+  width: 116px;
+  height: 96px;
+}
+.homepage-1 .bien-not-es-1 {
+  position: relative;
+  display: flex;
+  padding-bottom: 15px;
+  box-sizing: border-box;
+}
+.homepage-1 .container-1 {
+  position: relative;
+  margin: 0 63.5px 208px 40.3px;
+  display: flex;
+  padding-left: 24px;
+  box-sizing: border-box;
+}
+.homepage-1 .image-5 {
+  background: url('assets/images/Image5.png') 50% / cover no-repeat;
+  margin: 0 103.3px;
+  align-self: flex-start;
+  width: 1031px;
+  height: 433px;
+}
+.homepage-1 .container-33 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.homepage-1 .rectangle-49 {
+  background: url('assets/images/Rectangle41.png') 50% / cover no-repeat;
+  margin-right: 24px;
+  width: 121px;
+  height: 116px;
+}
+.homepage-1 .aventures-3 {
+  margin: 38px 0 40px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-9 {
+  border-radius: 12px;
+  background: #FFFFFF;
+  position: absolute;
+  top: 1050px;
+  right: 89px;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 0.1px;
+  width: 391px;
+  box-sizing: border-box;
+}
+.homepage-1 .rectangle-410 {
+  background: url('assets/images/Rectangle45.png') 50% / cover no-repeat;
+  margin-right: 24px;
+  width: 121px;
+  height: 116px;
+}
+.homepage-1 .expriences-3 {
+  margin: 48px 0 49px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-10 {
+  border-radius: 12px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 72px;
+  top: 1050px;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 0.1px;
+  width: 392px;
+  box-sizing: border-box;
+}
+.homepage-1 .rectangle-411 {
+  background: url('assets/images/Rectangle49.png') 50% / cover no-repeat;
+  margin-right: 24px;
+  width: 121px;
+  height: 116px;
+}
+.homepage-1 .expriences-4 {
+  margin: 48px 0 49px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-11 {
+  border-radius: 12px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 480px;
+  top: 1050px;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 0.1px;
+  width: 392px;
+  box-sizing: border-box;
+}
+.homepage-1 .rectangle-412 {
+  background: url('assets/images/Rectangle48.png') 50% / cover no-repeat;
+  margin-right: 24px;
+  width: 121px;
+  height: 116px;
+}
+.homepage-1 .aventures-4 {
+  margin: 48px 0 49px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-12 {
+  border-radius: 12px;
+  background: #FFFFFF;
+  position: absolute;
+  top: 1219px;
+  right: 89px;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 0.1px;
+  width: 391px;
+  box-sizing: border-box;
+}
+.homepage-1 .rectangle-413 {
+  background: url('assets/images/Rectangle47.png') 50% / cover no-repeat;
+  margin-right: 24px;
+  width: 121px;
+  height: 116px;
+}
+.homepage-1 .expriences-5 {
+  margin: 48px 0 49px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-13 {
+  border-radius: 12px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 70px;
+  top: 1219px;
+  display: flex;
+  flex-direction: row;
+  width: 392px;
+  box-sizing: border-box;
+}
+.homepage-1 .rectangle-414 {
+  background: url('assets/images/Rectangle43.png') 50% / cover no-repeat;
+  margin-right: 24px;
+  width: 121px;
+  height: 116px;
+}
+.homepage-1 .expriences-6 {
+  margin: 48px 0 49px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--secondary-dark-grey, #484848);
+}
+.homepage-1 .mini-card-14 {
+  border-radius: 12px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 480px;
+  top: 1219px;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 0.1px;
+  width: 392px;
+  box-sizing: border-box;
+}
+.homepage-1 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 12px 36.6px 0 28.7px;
+  width: 1366px;
+  box-sizing: border-box;
+}

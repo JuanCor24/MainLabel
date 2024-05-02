@@ -1,0 +1,1278 @@
+.tipografia .heading {
+  margin-right: 12px;
+  width: 1609px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .font-size-0-px-0-rem-2 {
+  margin-right: 12px;
+  width: 203px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .line-height-0-px-0-rem-2 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .letter-spacing-02 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .styles-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 618.9px;
+  box-sizing: border-box;
+}
+.tipografia .text-2 {
+  margin: 0 0.1px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 2239.9px;
+  box-sizing: border-box;
+}
+.tipografia .divider-2 {
+  background: #D1D5DB;
+  width: 2240px;
+  height: 1px;
+}
+.tipografia .header-2 {
+  margin-bottom: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .font-regular {
+  margin-right: 178.2px;
+  overflow-wrap: break-word;
+  font-family: var(--display-2-xl-regular-font-family, 'Inter');
+  font-weight: var(--display-2-xl-regular-font-weight, 400);
+  font-size: var(--display-2-xl-regular-font-size, 72px);
+  letter-spacing: var(--display-2-xl-regular-letter-spacing, -1.8px);
+  line-height: var(--display-2-xl-regular-line-height, 1.25);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-medium {
+  margin-right: 172.6px;
+  overflow-wrap: break-word;
+  font-family: var(--display-2-xl-medium-font-family, 'Inter');
+  font-weight: var(--display-2-xl-medium-font-weight, 500);
+  font-size: var(--display-2-xl-medium-font-size, 72px);
+  letter-spacing: var(--display-2-xl-medium-letter-spacing, -1.8px);
+  line-height: var(--display-2-xl-medium-line-height, 1.25);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-semibold {
+  margin-right: 167.1px;
+  overflow-wrap: break-word;
+  font-family: var(--display-2-xl-semi-bold-font-family, 'Inter');
+  font-weight: var(--display-2-xl-semi-bold-font-weight, 600);
+  font-size: var(--display-2-xl-semi-bold-font-size, 72px);
+  letter-spacing: var(--display-2-xl-semi-bold-letter-spacing, -1.8px);
+  line-height: var(--display-2-xl-semi-bold-line-height, 1.25);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-bold {
+  overflow-wrap: break-word;
+  font-family: var(--display-2-xl-bold-font-family, 'Inter');
+  font-weight: var(--display-2-xl-bold-font-weight, 700);
+  font-size: var(--display-2-xl-bold-font-size, 72px);
+  letter-spacing: var(--display-2-xl-bold-letter-spacing, -1.8px);
+  line-height: var(--display-2-xl-bold-line-height, 1.25);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .container-2 {
+  margin-right: 129.6px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tipografia .type-scale-base-2 {
+  margin-bottom: 128px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tipografia .heading-1 {
+  margin-right: 12px;
+  width: 1577px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .font-size-0-px-0-rem-3 {
+  margin-right: 12px;
+  width: 214px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .line-height-0-px-0-rem-3 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .letter-spacing-03 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .styles-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 650.9px;
+  box-sizing: border-box;
+}
+.tipografia .text-3 {
+  margin: 0 0.1px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 2239.9px;
+  box-sizing: border-box;
+}
+.tipografia .divider-3 {
+  background: #D1D5DB;
+  width: 2240px;
+  height: 1px;
+}
+.tipografia .header-3 {
+  margin-bottom: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .font-regular-1 {
+  margin-right: 72px;
+  width: 496px;
+  overflow-wrap: break-word;
+  font-family: var(--display-xl-regular-font-family, 'Inter');
+  font-weight: var(--display-xl-regular-font-weight, 400);
+  font-size: var(--display-xl-regular-font-size, 60px);
+  letter-spacing: var(--display-xl-regular-letter-spacing, -1.5px);
+  line-height: var(--display-xl-regular-line-height, 1.2);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-medium-1 {
+  overflow-wrap: break-word;
+  font-family: var(--display-xl-medium-font-family, 'Inter');
+  font-weight: var(--display-xl-medium-font-weight, 500);
+  font-size: var(--display-xl-medium-font-size, 60px);
+  letter-spacing: var(--display-xl-medium-letter-spacing, -1.5px);
+  line-height: var(--display-xl-medium-line-height, 1.2);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-semibold-1 {
+  overflow-wrap: break-word;
+  font-family: var(--display-xl-semi-bold-font-family, 'Inter');
+  font-weight: var(--display-xl-semi-bold-font-weight, 600);
+  font-size: var(--display-xl-semi-bold-font-size, 60px);
+  letter-spacing: var(--display-xl-semi-bold-letter-spacing, -1.5px);
+  line-height: var(--display-xl-semi-bold-line-height, 1.2);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-bold-1 {
+  overflow-wrap: break-word;
+  font-family: var(--display-xl-bold-font-family, 'Inter');
+  font-weight: var(--display-xl-bold-font-weight, 700);
+  font-size: var(--display-xl-bold-font-size, 60px);
+  letter-spacing: var(--display-xl-bold-letter-spacing, -1.5px);
+  line-height: var(--display-xl-bold-line-height, 1.2);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .container-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 2006.4px;
+  box-sizing: border-box;
+}
+.tipografia .type-scale-base-3 {
+  margin-bottom: 128px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .heading-2 {
+  margin-right: 12px;
+  width: 1621px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .font-size-0-px-0-rem-4 {
+  margin-right: 12px;
+  width: 191px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .line-height-0-px-0-rem-4 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .letter-spacing-04 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .styles-4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 606.9px;
+  box-sizing: border-box;
+}
+.tipografia .text-4 {
+  margin: 0 0.1px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 2239.9px;
+  box-sizing: border-box;
+}
+.tipografia .divider-4 {
+  background: #D1D5DB;
+  width: 2240px;
+  height: 1px;
+}
+.tipografia .header-4 {
+  margin-bottom: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .font-regular-2 {
+  margin-right: 60px;
+  width: 508px;
+  overflow-wrap: break-word;
+  font-family: var(--display-lg-regular-font-family, 'Inter');
+  font-weight: var(--display-lg-regular-font-weight, 400);
+  font-size: var(--display-lg-regular-font-size, 48px);
+  letter-spacing: var(--display-lg-regular-letter-spacing, -1.2px);
+  line-height: var(--display-lg-regular-line-height, 1.25);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-medium-2 {
+  overflow-wrap: break-word;
+  font-family: var(--display-lg-medium-font-family, 'Inter');
+  font-weight: var(--display-lg-medium-font-weight, 500);
+  font-size: var(--display-lg-medium-font-size, 48px);
+  letter-spacing: var(--display-lg-medium-letter-spacing, -1.2px);
+  line-height: var(--display-lg-medium-line-height, 1.25);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-semibold-2 {
+  overflow-wrap: break-word;
+  font-family: var(--display-lg-semi-bold-font-family, 'Inter');
+  font-weight: var(--display-lg-semi-bold-font-weight, 600);
+  font-size: var(--display-lg-semi-bold-font-size, 48px);
+  letter-spacing: var(--display-lg-semi-bold-letter-spacing, -1.2px);
+  line-height: var(--display-lg-semi-bold-line-height, 1.25);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-bold-2 {
+  overflow-wrap: break-word;
+  font-family: var(--display-lg-bold-font-family, 'Inter');
+  font-weight: var(--display-lg-bold-font-weight, 700);
+  font-size: var(--display-lg-bold-font-size, 48px);
+  letter-spacing: var(--display-lg-bold-letter-spacing, -1.2px);
+  line-height: var(--display-lg-bold-line-height, 1.25);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .container-4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1948.8px;
+  box-sizing: border-box;
+}
+.tipografia .type-scale-base-4 {
+  margin-bottom: 128px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .heading-3 {
+  margin-right: 12px;
+  width: 1597px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .font-size-0-px-0-rem-5 {
+  margin-right: 12px;
+  width: 215px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .line-height-0-px-0-rem-5 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .letter-spacing-05 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .styles-5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 630.9px;
+  box-sizing: border-box;
+}
+.tipografia .text-5 {
+  margin: 0 0.1px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 2239.9px;
+  box-sizing: border-box;
+}
+.tipografia .divider-5 {
+  background: #D1D5DB;
+  width: 2240px;
+  height: 1px;
+}
+.tipografia .header-5 {
+  margin-bottom: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .font-regular-3 {
+  margin-right: 45px;
+  width: 523px;
+  overflow-wrap: break-word;
+  font-family: var(--display-md-regular-font-family, 'Inter');
+  font-weight: var(--display-md-regular-font-weight, 400);
+  font-size: var(--display-md-regular-font-size, 36px);
+  letter-spacing: var(--display-md-regular-letter-spacing, -0.9px);
+  line-height: var(--display-md-regular-line-height, 1.25);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-medium-3 {
+  overflow-wrap: break-word;
+  font-family: var(--display-md-medium-font-family, 'Inter');
+  font-weight: var(--display-md-medium-font-weight, 500);
+  font-size: var(--display-md-medium-font-size, 36px);
+  letter-spacing: var(--display-md-medium-letter-spacing, -0.9px);
+  line-height: var(--display-md-medium-line-height, 1.25);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-semibold-3 {
+  overflow-wrap: break-word;
+  font-family: var(--display-md-semi-bold-font-family, 'Inter');
+  font-weight: var(--display-md-semi-bold-font-weight, 600);
+  font-size: var(--display-md-semi-bold-font-size, 36px);
+  letter-spacing: var(--display-md-semi-bold-letter-spacing, -0.9px);
+  line-height: var(--display-md-semi-bold-line-height, 1.25);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-bold-3 {
+  overflow-wrap: break-word;
+  font-family: var(--display-md-bold-font-family, 'Inter');
+  font-weight: var(--display-md-bold-font-weight, 700);
+  font-size: var(--display-md-bold-font-size, 36px);
+  letter-spacing: var(--display-md-bold-letter-spacing, -0.9px);
+  line-height: var(--display-md-bold-line-height, 1.25);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .container-5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1910.7px;
+  box-sizing: border-box;
+}
+.tipografia .type-scale-base-5 {
+  margin-bottom: 128px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .heading-4 {
+  margin-right: 12px;
+  width: 1632px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .font-size-0-px-0-rem-6 {
+  margin-right: 12px;
+  width: 221px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .line-height-0-px-0-rem-6 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .letter-spacing-06 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .styles-6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 595.2px;
+  box-sizing: border-box;
+}
+.tipografia .text-6 {
+  margin: 0 0.8px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 2239.2px;
+  box-sizing: border-box;
+}
+.tipografia .divider-6 {
+  background: #D1D5DB;
+  width: 2240px;
+  height: 1px;
+}
+.tipografia .header-6 {
+  margin-bottom: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .font-regular-4 {
+  margin-right: 40px;
+  width: 528px;
+  overflow-wrap: break-word;
+  font-family: var(--display-sm-regular-font-family, 'Inter');
+  font-weight: var(--display-sm-regular-font-weight, 400);
+  font-size: var(--display-sm-regular-font-size, 30px);
+  line-height: var(--display-sm-regular-line-height, 1.333);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-medium-4 {
+  overflow-wrap: break-word;
+  font-family: var(--display-sm-medium-font-family, 'Inter');
+  font-weight: var(--display-sm-medium-font-weight, 500);
+  font-size: var(--display-sm-medium-font-size, 30px);
+  line-height: var(--display-sm-medium-line-height, 1.333);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-semibold-4 {
+  overflow-wrap: break-word;
+  font-family: var(--display-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--display-sm-semi-bold-font-weight, 600);
+  font-size: var(--display-sm-semi-bold-font-size, 30px);
+  line-height: var(--display-sm-semi-bold-line-height, 1.333);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-bold-4 {
+  overflow-wrap: break-word;
+  font-family: var(--display-sm-bold-font-family, 'Inter');
+  font-weight: var(--display-sm-bold-font-weight, 700);
+  font-size: var(--display-sm-bold-font-size, 30px);
+  line-height: var(--display-sm-bold-line-height, 1.333);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .container-6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1881.5px;
+  box-sizing: border-box;
+}
+.tipografia .type-scale-base-6 {
+  margin-bottom: 128px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .heading-5 {
+  margin-right: 12px;
+  width: 1667px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .font-size-0-px-0-rem-7 {
+  margin-right: 12px;
+  width: 201px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .line-height-0-px-0-rem-7 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .letter-spacing-07 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .styles-7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 560.2px;
+  box-sizing: border-box;
+}
+.tipografia .text-7 {
+  margin: 0 0.8px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 2239.2px;
+  box-sizing: border-box;
+}
+.tipografia .divider-7 {
+  background: #D1D5DB;
+  width: 2240px;
+  height: 1px;
+}
+.tipografia .header-7 {
+  margin-bottom: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .font-regular-5 {
+  margin-right: 32px;
+  width: 536px;
+  overflow-wrap: break-word;
+  font-family: var(--display-xs-regular-font-family, 'Inter');
+  font-weight: var(--display-xs-regular-font-weight, 400);
+  font-size: var(--display-xs-regular-font-size, 24px);
+  line-height: var(--display-xs-regular-line-height, 1.333);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-medium-5 {
+  overflow-wrap: break-word;
+  font-family: var(--display-xs-medium-font-family, 'Inter');
+  font-weight: var(--display-xs-medium-font-weight, 500);
+  font-size: var(--display-xs-medium-font-size, 24px);
+  line-height: var(--display-xs-medium-line-height, 1.333);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-semibold-5 {
+  overflow-wrap: break-word;
+  font-family: var(--display-xs-semi-bold-font-family, 'Inter');
+  font-weight: var(--display-xs-semi-bold-font-weight, 700);
+  font-size: var(--display-xs-semi-bold-font-size, 24px);
+  line-height: var(--display-xs-semi-bold-line-height, 1.333);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .font-bold-5 {
+  overflow-wrap: break-word;
+  font-family: var(--display-xs-bold-font-family, 'Inter');
+  font-weight: var(--display-xs-bold-font-weight, 700);
+  font-size: var(--display-xs-bold-font-size, 24px);
+  line-height: var(--display-xs-bold-line-height, 1.333);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .container-7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1837.9px;
+  box-sizing: border-box;
+}
+.tipografia .type-scale-base-7 {
+  margin-bottom: 128px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .body-xl {
+  margin-right: 12px;
+  width: 1637px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .font-size-0-px-0-rem-8 {
+  margin-right: 12px;
+  width: 211px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .line-height-0-px-0-rem-8 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .letter-spacing-08 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .styles-8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 590.2px;
+  box-sizing: border-box;
+}
+.tipografia .text-8 {
+  margin: 0 0.8px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 2239.2px;
+  box-sizing: border-box;
+}
+.tipografia .divider-8 {
+  background: #D1D5DB;
+  width: 2240px;
+  height: 1px;
+}
+.tipografia .header-8 {
+  margin-bottom: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .body-xl-regular {
+  margin-right: 28px;
+  width: 540px;
+  overflow-wrap: break-word;
+  font-family: var(--body-xl-regular-font-family, 'Inter');
+  font-weight: var(--body-xl-regular-font-weight, 400);
+  font-size: var(--body-xl-regular-font-size, 20px);
+  line-height: var(--body-xl-regular-line-height, 1.4);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .body-xl-medium {
+  overflow-wrap: break-word;
+  font-family: var(--body-xl-medium-font-family, 'Inter');
+  font-weight: var(--body-xl-medium-font-weight, 500);
+  font-size: var(--body-xl-medium-font-size, 20px);
+  line-height: var(--body-xl-medium-line-height, 1.4);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .body-xl-semibold {
+  overflow-wrap: break-word;
+  font-family: var(--body-xl-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-xl-semi-bold-font-weight, 600);
+  font-size: var(--body-xl-semi-bold-font-size, 20px);
+  line-height: var(--body-xl-semi-bold-line-height, 1.4);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .body-xl-bold {
+  overflow-wrap: break-word;
+  font-family: var(--body-xl-bold-font-family, 'Inter');
+  font-weight: var(--body-xl-bold-font-weight, 700);
+  font-size: var(--body-xl-bold-font-size, 20px);
+  line-height: var(--body-xl-bold-line-height, 1.4);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .container-8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1787.5px;
+  box-sizing: border-box;
+}
+.tipografia .type-scale-base-8 {
+  margin-bottom: 128px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .body-lg {
+  margin-right: 12px;
+  width: 1633px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .font-size-0-px-0-rem-9 {
+  margin-right: 12px;
+  width: 215px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .line-height-0-px-0-rem-9 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .letter-spacing-09 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .styles-9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 594.2px;
+  box-sizing: border-box;
+}
+.tipografia .text-9 {
+  margin: 0 0.8px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 2239.2px;
+  box-sizing: border-box;
+}
+.tipografia .divider-9 {
+  background: #D1D5DB;
+  width: 2240px;
+  height: 1px;
+}
+.tipografia .header-9 {
+  margin-bottom: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .body-lg-regular {
+  margin-right: 28px;
+  width: 540px;
+  overflow-wrap: break-word;
+  font-family: var(--body-lg-regular-font-family, 'Inter');
+  font-weight: var(--body-lg-regular-font-weight, 400);
+  font-size: var(--body-lg-regular-font-size, 18px);
+  line-height: var(--body-lg-regular-line-height, 1.556);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .body-lg-medium {
+  overflow-wrap: break-word;
+  font-family: var(--body-lg-medium-font-family, 'Inter');
+  font-weight: var(--body-lg-medium-font-weight, 500);
+  font-size: var(--body-lg-medium-font-size, 18px);
+  line-height: var(--body-lg-medium-line-height, 1.556);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .body-lg-semibold {
+  overflow-wrap: break-word;
+  font-family: var(--body-lg-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-lg-semi-bold-font-weight, 600);
+  font-size: var(--body-lg-semi-bold-font-size, 18px);
+  line-height: var(--body-lg-semi-bold-line-height, 1.556);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .body-lg-semibold-1 {
+  overflow-wrap: break-word;
+  font-family: var(--body-lg-bold-font-family, 'Inter');
+  font-weight: var(--body-lg-bold-font-weight, 700);
+  font-size: var(--body-lg-bold-font-size, 18px);
+  line-height: var(--body-lg-bold-line-height, 1.556);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .container-9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1780.2px;
+  box-sizing: border-box;
+}
+.tipografia .type-scale-base-9 {
+  margin-bottom: 128px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .body-lg-semibold-2 {
+  margin-right: 12px;
+  width: 1701px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .font-size-0-px-0-rem-10 {
+  margin-right: 12px;
+  width: 185px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .line-height-0-px-0-rem-10 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .letter-spacing-010 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .styles-10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 526.2px;
+  box-sizing: border-box;
+}
+.tipografia .text-10 {
+  margin: 0 0.8px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 2239.2px;
+  box-sizing: border-box;
+}
+.tipografia .divider-10 {
+  background: #D1D5DB;
+  width: 2240px;
+  height: 1px;
+}
+.tipografia .header-10 {
+  margin-bottom: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .body-md-regular {
+  margin-right: 24px;
+  width: 544px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-regular-font-family, 'Inter');
+  font-weight: var(--body-md-regular-font-weight, 400);
+  font-size: var(--body-md-regular-font-size, 16px);
+  line-height: var(--body-md-regular-line-height, 1.5);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .body-md-medium {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .body-md-medium-1 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-md-semi-bold-font-weight, 600);
+  font-size: var(--body-md-semi-bold-font-size, 16px);
+  line-height: var(--body-md-semi-bold-line-height, 1.5);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .body-md-medium-2 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-bold-font-family, 'Inter');
+  font-weight: var(--body-md-bold-font-weight, 700);
+  font-size: var(--body-md-bold-font-size, 16px);
+  line-height: var(--body-md-bold-line-height, 1.5);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .container-10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1782px;
+  box-sizing: border-box;
+}
+.tipografia .type-scale-base-10 {
+  margin-bottom: 128px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .body-sm {
+  margin-right: 12px;
+  width: 1626px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .font-size-0-px-0-rem {
+  margin-right: 12px;
+  width: 221px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .line-height-0-px-0-rem {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .letter-spacing-0 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .styles {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 601.2px;
+  box-sizing: border-box;
+}
+.tipografia .text {
+  margin: 0 0.8px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 2239.2px;
+  box-sizing: border-box;
+}
+.tipografia .divider {
+  background: #D1D5DB;
+  width: 2240px;
+  height: 1px;
+}
+.tipografia .header {
+  margin-bottom: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .body-sm-regular {
+  margin-right: 20px;
+  width: 548px;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-regular-font-family, 'Inter');
+  font-weight: var(--body-sm-regular-font-weight, 400);
+  font-size: var(--body-sm-regular-font-size, 14px);
+  line-height: var(--body-sm-regular-line-height, 1.429);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .body-sm-medium {
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-medium-font-family, 'Inter');
+  font-weight: var(--body-sm-medium-font-weight, 500);
+  font-size: var(--body-sm-medium-font-size, 14px);
+  line-height: var(--body-sm-medium-line-height, 1.429);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .body-sm-medium-1 {
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .body-sm-medium-2 {
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-bold-font-weight, 700);
+  font-size: var(--body-sm-bold-font-size, 14px);
+  line-height: var(--body-sm-bold-line-height, 1.429);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1771.2px;
+  box-sizing: border-box;
+}
+.tipografia .type-scale-base {
+  margin-bottom: 128px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .body-sm-medium-3 {
+  margin-right: 12px;
+  width: 1662px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .font-size-0-px-0-rem-1 {
+  margin-right: 12px;
+  width: 211px;
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .line-height-0-px-0-rem-1 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .letter-spacing-01 {
+  overflow-wrap: break-word;
+  font-family: var(--body-md-medium-font-family, 'Inter');
+  font-weight: var(--body-md-medium-font-weight, 500);
+  font-size: var(--body-md-medium-font-size, 16px);
+  line-height: var(--body-md-medium-line-height, 1.5);
+  color: var(--primary-900, #4C1D95);
+}
+.tipografia .styles-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 565.2px;
+  box-sizing: border-box;
+}
+.tipografia .text-1 {
+  margin: 0 0.8px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 2239.2px;
+  box-sizing: border-box;
+}
+.tipografia .divider-1 {
+  background: #D1D5DB;
+  width: 2240px;
+  height: 1px;
+}
+.tipografia .header-1 {
+  margin-bottom: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia .body-sm-medium-4 {
+  margin-right: 16px;
+  width: 552px;
+  overflow-wrap: break-word;
+  font-family: var(--body-xs-regular-font-family, 'Inter');
+  font-weight: var(--body-xs-regular-font-weight, 400);
+  font-size: var(--body-xs-regular-font-size, 12px);
+  line-height: var(--body-xs-regular-line-height, 1.333);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .body-sm-medium-5 {
+  overflow-wrap: break-word;
+  font-family: var(--body-xs-medium-font-family, 'Inter');
+  font-weight: var(--body-xs-medium-font-weight, 500);
+  font-size: var(--body-xs-medium-font-size, 12px);
+  line-height: var(--body-xs-medium-line-height, 1.333);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .body-xs-semibold {
+  overflow-wrap: break-word;
+  font-family: var(--body-xs-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-xs-semi-bold-font-weight, 600);
+  font-size: var(--body-xs-semi-bold-font-size, 12px);
+  line-height: var(--body-xs-semi-bold-line-height, 1.333);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .body-xs-bold {
+  overflow-wrap: break-word;
+  font-family: var(--body-xs-bold-font-family, 'Inter');
+  font-weight: var(--body-xs-bold-font-weight, 700);
+  font-size: var(--body-xs-bold-font-size, 12px);
+  line-height: var(--body-xs-bold-line-height, 1.333);
+  color: var(--neutral-900, #111827);
+}
+.tipografia .container-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1757.6px;
+  box-sizing: border-box;
+}
+.tipografia .type-scale-base-1 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: 2240px;
+  box-sizing: border-box;
+}
+.tipografia {
+  background: var(--white-1, #FFFFFF);
+  display: flex;
+  flex-direction: column;
+  padding: 96px 0 40px 80px;
+  width: 2584px;
+  box-sizing: border-box;
+}

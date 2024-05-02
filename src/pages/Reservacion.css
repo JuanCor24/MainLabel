@@ -1,0 +1,170 @@
+.reservacion .label {
+  margin-right: 8.3px;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: var(--neutral-900, #111827);
+}
+.reservacion .vector {
+  width: 10.5px;
+  height: 6px;
+}
+.reservacion .essential-icon {
+  margin: 8px 0 6px 0;
+  display: flex;
+  width: 10.5px;
+  height: 6px;
+  box-sizing: border-box;
+}
+.reservacion .nav-item {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.reservacion .label-1 {
+  margin-right: 7.9px;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: var(--neutral-900, #111827);
+}
+.reservacion .vector-1 {
+  width: 10.5px;
+  height: 6px;
+}
+.reservacion .essential-icon-1 {
+  margin: 8px 0 6px 0;
+  display: flex;
+  width: 10.5px;
+  height: 6px;
+  box-sizing: border-box;
+}
+.reservacion .menu-item-default {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.reservacion .label-2 {
+  margin-right: 8.7px;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: var(--neutral-900, #111827);
+}
+.reservacion .vector-2 {
+  width: 10.5px;
+  height: 6px;
+}
+.reservacion .essential-icon-2 {
+  margin: 8px 0 6px 0;
+  display: flex;
+  width: 10.5px;
+  height: 6px;
+  box-sizing: border-box;
+}
+.reservacion .menu-item-default-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.reservacion .label-3 {
+  margin-right: 8.5px;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: var(--neutral-900, #111827);
+}
+.reservacion .vector-3 {
+  width: 10.5px;
+  height: 6px;
+}
+.reservacion .essential-icon-3 {
+  margin: 8px 0 6px 0;
+  display: flex;
+  width: 10.5px;
+  height: 6px;
+  box-sizing: border-box;
+}
+.reservacion .menu-item-default-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.reservacion .label-4 {
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: var(--neutral-900, #111827);
+}
+.reservacion .menu-item-default-3 {
+  display: flex;
+  box-sizing: border-box;
+}
+.reservacion .left-nav {
+  margin: 0 106.7px 1027px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 571.9px;
+  box-sizing: border-box;
+}
+.reservacion .smartjourney {
+  margin: 26px 10px 8px 0;
+  display: inline-block;
+  width: 962.6px;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: #000000;
+}
+.reservacion .connect-wallet {
+  margin: 10px 0 4px 0;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: #000000;
+}
+.reservacion .image-7 {
+  background: url('assets/images/Image7.png') 50% / cover no-repeat;
+  width: 56px;
+  height: 54px;
+}
+.reservacion .container {
+  margin-bottom: 66px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1167.4px;
+  box-sizing: border-box;
+}
+.reservacion .image-8 {
+  background: url('assets/images/Image8.png') 50% / cover no-repeat;
+  margin-left: 10.4px;
+  width: 847px;
+  height: 728px;
+}
+.reservacion {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 75px 39px 123.6px;
+  width: 1366px;
+  box-sizing: border-box;
+}

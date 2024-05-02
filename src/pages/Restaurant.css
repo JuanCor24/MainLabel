@@ -1,0 +1,11 @@
+.restaurant .restaurant-hotel-food-car {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #FF9A8B;
+}
+.restaurant {
+  display: flex;
+  box-sizing: border-box;
+}

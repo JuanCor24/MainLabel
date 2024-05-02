@@ -1,0 +1,198 @@
+.group-1 .rectangle-2 {
+  border-radius: 4px;
+  background: var(--secondary-white, #FFFFFF);
+  position: absolute;
+  left: -6px;
+  top: 5px;
+  width: 385px;
+  height: 356px;
+}
+.group-1 .o {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 24px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.group-1 .partout {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  color: #8F8F8F;
+}
+.group-1 .input-empty-corner-all-2 {
+  border-radius: 2px;
+  border: 1px solid #E3E3E3;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  padding: 16px 16px 5px 16px;
+  width: 344px;
+  box-sizing: border-box;
+}
+.group-1 .input-text-3 {
+  position: relative;
+  margin-bottom: 23px;
+  align-self: flex-start;
+  padding-bottom: 38px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.group-1 .arrive {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 24px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.group-1 .jjmmaaaa {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #8F8F8F;
+}
+.group-1 .input-empty-corner-right {
+  border-radius: 2px 0 0 2px;
+  border: 1px solid #E3E3E3;
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  padding: 16px 16px 13px 16px;
+  box-sizing: border-box;
+}
+.group-1 .input-text {
+  position: relative;
+  margin-right: 11px;
+  padding-bottom: 42px;
+  flex-grow: 1;
+  flex-basis: 172px;
+  box-sizing: border-box;
+}
+.group-1 .dpart {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 24px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.group-1 .jjmmaaaa-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #8F8F8F;
+}
+.group-1 .input-empty-corner-left {
+  border-radius: 0 2px 2px 0;
+  border: 1px solid #E3E3E3;
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  padding: 16px 16px 13px 16px;
+  box-sizing: border-box;
+}
+.group-1 .input-text-1 {
+  position: relative;
+  padding-bottom: 42px;
+  flex-grow: 1;
+  flex-basis: 172px;
+  box-sizing: border-box;
+}
+.group-1 .container {
+  position: relative;
+  margin: 0 0 6px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 1px);
+  box-sizing: border-box;
+}
+.group-1 .voyageurs {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 24px;
+  text-transform: uppercase;
+  color: var(--secondary-dark-grey, #484848);
+}
+.group-1 .voyageurs-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 24px;
+  color: #8F8F8F;
+}
+.group-1 .input-empty-corner-all {
+  border-radius: 2px;
+  border: 1px solid #E3E3E3;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  padding: 16px 16px 4px 16px;
+  width: 343px;
+  box-sizing: border-box;
+}
+.group-1 .input-text-2 {
+  position: relative;
+  margin-bottom: 54px;
+  align-self: flex-start;
+  padding-bottom: 42px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.group-1 .boton {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  color: var(--secondary-white, #FFFFFF);
+}
+.group-1 .cta-main {
+  border-radius: 4px;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(#FB2B31, #FB2B31);
+  position: relative;
+  display: flex;
+  align-self: center;
+  padding: 15px 1px 14px 0;
+  width: 146px;
+  box-sizing: border-box;
+}
+.group-1 .reservation-card {
+  position: absolute;
+  top: 0px;
+  right: -26px;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 38px 17px 23px;
+  width: 417px;
+  height: 378px;
+  box-sizing: border-box;
+}
+.group-1 .reservation-card-1 {
+  border-radius: 4px;
+  background: #FFFFFF;
+  position: relative;
+  width: 391px;
+  height: 388px;
+}
+.group-1 {
+  display: flex;
+  box-sizing: border-box;
+}

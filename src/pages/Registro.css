@@ -1,0 +1,23 @@
+.registro .label {
+  overflow-wrap: break-word;
+  font-family: var(--body-sm-semi-bold-font-family, 'Inter');
+  font-weight: var(--body-sm-semi-bold-font-weight, 600);
+  font-size: var(--body-sm-semi-bold-font-size, 14px);
+  line-height: var(--body-sm-semi-bold-line-height, 1.429);
+  color: #F5F5F5;
+}
+.registro .button {
+  background: #996830;
+  display: flex;
+  padding: 12px 0;
+  width: 93px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.registro {
+  background: #FFFFFF;
+  display: flex;
+  padding: 406px 0 125px 59px;
+  width: 1366px;
+  box-sizing: border-box;
+}
